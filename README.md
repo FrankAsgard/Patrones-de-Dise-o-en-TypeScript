@@ -27,19 +27,24 @@ Antes de comenzar, asegúrate de tener instalados los siguientes requisitos:
 ## Instrucciones de Instalación
 
 Clona el repositorio:
-git clone https://github.com/FrankAsgard/Patrones-de-Dise-o-en-TypeScript.git
+  ```bash
+  git clone https://github.com/FrankAsgard/Patrones-de-Dise-o-en-TypeScript.git
+```
 
 Navega a la carpeta del proyecto:
-
+```bash
 cd Patrones-de-Dise-o-en-TypeScript
+```
 Instala los paquetes necesarios:
 
-
+```bash
 npm install --save-dev typescript ts-node
+```
 Para ejecutar cualquiera de los ejemplos, utiliza el siguiente comando:
 
-
+```bash
 ts-node nombre-del-archivo.ts
+```
 
 # Ejemplos de Patrones
 
