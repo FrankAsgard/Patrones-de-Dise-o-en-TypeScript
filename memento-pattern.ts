@@ -1,5 +1,7 @@
 // memento-pattern.ts
 
+//EditorState
+
 class EditorState {
   constructor(public content: string) {}
 }

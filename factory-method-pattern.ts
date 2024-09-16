@@ -1,5 +1,7 @@
 // factory-method-pattern.ts
 
+//Vehicle
+
 abstract class Vehicle {
   abstract getType(): string;
 }

@@ -1,5 +1,7 @@
 // observer-pattern.ts
 
+//Observer
+
 interface Observer {
   update(temperature: number): void;
 }

@@ -1,5 +1,7 @@
 // builder-pattern.ts
 
+//Meal
+
 interface Meal {
     mainCourse: string;
     sideDish?: string;

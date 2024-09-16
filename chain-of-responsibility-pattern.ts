@@ -1,5 +1,7 @@
 // chain-of-responsibility-pattern.ts
 
+//Handler
+
 abstract class Handler {
   protected successor?: Handler;
 
