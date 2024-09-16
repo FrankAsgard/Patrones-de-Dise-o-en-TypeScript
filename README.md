@@ -13,7 +13,6 @@ Este repositorio contiene ejemplos de varios patrones de diseño implementados e
   - [Chain of Responsibility Pattern](#chain-of-responsibility-pattern)
   - [Memento Pattern](#memento-pattern)
 - [Conclusión](#conclusión)
-- [Licencia](#licencia)
 
 ## Requisitos Previos
 
